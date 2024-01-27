@@ -67,7 +67,7 @@ Topics:
   
   6. Example: 
         Simple Light Theme Dark Theme
-        Light / Theme Dark for E-Commerce Application
+        Light / Theme Dark for Application
 
         Convert all the states to use context
 
